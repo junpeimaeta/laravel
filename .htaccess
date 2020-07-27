@@ -1,0 +1,8 @@
+Alias / '/home/users/1/main.jp-junpeimaeta/web/testLaravel3/public/'
+
+<Directory /home/users/1/main.jp-junpeimaeta/web/testLaravel3/public/>
+  Options Indexes FollowSymLinks MultiViews
+  AllowOverride all
+    Order allow,deny
+  Allow from all
+</Directory>
